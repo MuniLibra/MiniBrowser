@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini Browser</string>
+    <string name="btn_google_images">Google Картинки</string>
+    <string name="downloads_title">Загрузки</string>
+    <string name="history_title">История</string>
+    <string name="no_downloads">Загрузок нет</string>
+    <string name="no_history">Истории ещё нет</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="download_started">Загрузка началась</string>
+    <string name="download_error">Ошибка загрузки</string>
+</resources>
